@@ -78,7 +78,7 @@
         "when": "terminalFocus && panelPosition == 'bottom'"
       },
       {
-        "key": "ctrl+b shift+'",
+        "key": "ctrl+b shift+4",
         "command": "workbench.action.terminal.split",
         "when": "terminalFocus && panelPosition != 'bottom'"
       },
